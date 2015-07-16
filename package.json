@@ -14,6 +14,12 @@
     "trademark"
   ],
   "license": "CC0-1.0",
-  "main": "index.json",
-  "repository": "kemitchell/nice-classification.json"
+  "main": "nice-classification.json",
+  "repository": "kemitchell/nice-classification.json",
+  "scripts": {
+    "prepublish": "make"
+  },
+  "devDependencies": {
+    "lispy-json": "~1.0.2"
+  }
 }
