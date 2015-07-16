@@ -1,6 +1,10 @@
+Install:
+
 ```shellsession
 $ npm install --save nice-classification
 ```
+
+Use in JavaScript:
 
 ```javascript
 // Require all of the data.
