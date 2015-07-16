@@ -1,0 +1,15 @@
+{
+  "name": "nice-classification",
+  "description": "data about the Nice Classification of goods and sercies applied for the registration of marks",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "keywords": [
+    "NCL",
+    "Nice Classification",
+    "WIPO",
+    "trademark"
+  ],
+  "license": "CC0-1.0",
+  "main": "index.json",
+  "repository": "kemitchell/nice-classification.json"
+}
