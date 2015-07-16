@@ -1,10 +1,10 @@
-Install:
+# Installation
 
 ```shellsession
 $ npm install --save nice-classification
 ```
 
-Use in JavaScript:
+# JavaScript
 
 ```javascript
 // Require all of the data.
@@ -36,3 +36,7 @@ justGoods.goods // array, as above
 var justServices = require('nice-classification/services')
 justServices.services // array, as above
 ```
+
+# Versioning
+
+The package version string is of the form `<NCL edition>.<NCL version>.<patch>`.
