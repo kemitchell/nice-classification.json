@@ -1,7 +1,5 @@
 #!/usr/bin/env node
-
 var input = ''
-
 process.stdin
   .on('data', function(buffer) {
     input += buffer.toString() })
